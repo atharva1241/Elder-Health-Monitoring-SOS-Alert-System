@@ -1,1 +1,0 @@
-# Elder-Health-Monitoring-SOS-Alert-System
